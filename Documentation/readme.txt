@@ -10,6 +10,7 @@ Also the program should be cross platform between linux and windows.
 Current Plan(Programmers):
 1) use GTK+ library for initial GUI and image manipulation
 2) find and research a good swf library
+3) or, make our own api using the swfDocumentation.pdf from adobe
 
 (Artists and Users):
 1) Request features that should be added to the program
